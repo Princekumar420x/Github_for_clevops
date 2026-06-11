@@ -1,6 +1,15 @@
-clear
-git version 
-git add
-git commit 
+git init
+git clone
 git status
-git retore
+git add
+git commit
+git log
+git branch
+git checkout
+git merge
+git remote -v
+git push
+git pull
+git fetch
+git diff
+git stash
